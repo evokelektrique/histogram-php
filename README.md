@@ -1,10 +1,20 @@
 <div align="center">
   <b>Historgram PHP</b>
   <br>
-  <p>A histogram is an approximate representation of the distribution of numerical data. It was first introduced by Karl Pearson. <a href="https://en.wikipedia.org/wiki/Histogram">Wikipedia<a/></p>
+  <br>
+  <p>A histogram is an approximate representation of the distribution of numerical data. <a href="https://en.wikipedia.org/wiki/Histogram">Wikipedia<a/></p>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <img align="bottom" src="./screenshot-histogram.png" />
+
 </div>
 
 ## Usage
+Source used in example from <a href="https://unsplash.com/photos/1OtUkD_8svc">Mark Basarab</a>
 
 ```php
 // Load a source into model
